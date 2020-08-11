@@ -1,4 +1,4 @@
-[![Social banner for mugas](./assets/food_Store_banner.png)](http://ricardomoreira.io/)
+[![Social banner for mugas](./assets/food_store_banner.png)](http://ricardomoreira.io/)
 
 <h1 align="center"> 🔥Food Store🔥</h1>
 
